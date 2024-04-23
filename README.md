@@ -29,8 +29,6 @@ library_system/
 │
 └── README.md # README file with project information
 
-markdown
-
 
 ## Features
 
